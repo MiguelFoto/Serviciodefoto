@@ -48,7 +48,7 @@ header {
 #hero {
     color: #000;
     position: relative;
-    background-image: url('/image-background.png');
+    background-image: url('image-background.png');
     background-repeat: no-repeat;
     background-position: 50% 0;
     background-size: cover;
